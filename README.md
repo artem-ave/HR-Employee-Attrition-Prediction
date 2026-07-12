@@ -177,7 +177,6 @@ HR-Employee-Attrition-Prediction/
 │
 ├── images/
 │   ├── correlation_heatmap.png
-│   ├── confusion_matrix.png
 │   ├── feature_importance.png
 │   └── hours_vs_satisfaction.png
 │
