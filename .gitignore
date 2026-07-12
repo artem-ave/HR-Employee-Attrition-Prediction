@@ -1,4 +1,19 @@
-.ipynb_checkpoints/
-.DS_Store
-*.pickle
+# Python
 __pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Models
+*.pickle
+
+# Virtual environments
+venv/
+.env/
+
+# VS Code
+.vscode/
